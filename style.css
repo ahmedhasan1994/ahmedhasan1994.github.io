@@ -51,7 +51,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/background\ \(2\).jpeg) no-repeat;
+    background: url(img/background.jpg) no-repeat;
     background-color: black;
     background-position: center right;
     background-attachment: fixed;
